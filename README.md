@@ -3,7 +3,7 @@
 This project showcases my proficiency in data visualization and providing business insight using Microsoft Power BI.
 
 ## Analyzing Sales Profit of a Bicycle Store
-[[Worldwide Sales.pbix]](https://github.com/zhi-hern/Power_BI_-Project/blob/main/Worldwide%20sales.pbix)
+Files: [[Worldwide Sales.pbix]](https://github.com/zhi-hern/Power_BI_-Project/blob/main/Worldwide%20sales.pbix)
 [[Worldwide sales.pdf]](https://github.com/user-attachments/files/17607829/Worldwide.sales.pdf)
 
 - Increase sales profits by analyzing countries and products that bring in the most profits  
@@ -12,7 +12,7 @@ This project showcases my proficiency in data visualization and providing busine
 ### Findings and Proceedings
 - Sales & Gross Profit Trend: Total sales increased from 1.0K to 8.5K but gross profit did not increase with the same rate as total sales.
   - This is apparent between the year of 2006 and 2008. From 2006 to 2007, sales order increased 5.1K but gross profit only increased 0.3M. In addition to that, sales order increased but gross profit     decreased from 2007 to 2008.
-  - This is mainly due to average profit per sale decreased from 2005 to 2008.
+  - This is mainly due to **decreasing** average profit per sale from 2005 to 2008.
   - Sales of Mountain Bikes and Road Bikes (which have the higher average product profit) contributed less to the total gross profit from year 2007 to 2008.        
   - Gross profit from Australia topped other countries because of road bikes and mountain bikes were more popular in Australia.
 
